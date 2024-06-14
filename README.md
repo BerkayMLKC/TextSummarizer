@@ -101,6 +101,7 @@ Here is a simple example of how to use the script:
 
 4-View the summarized text and the graph of sentence similarities.
 
-# Codes
+# Sources
 
 You can review the project backend code [here](TextSummarizer.py).
+You can review the project report [here](textsummarizer.pdf).
