@@ -104,4 +104,4 @@ Here is a simple example of how to use the script:
 # Sources
 
 You can review the project backend code [here](TextSummarizer.py).
-You can review the project report [here](textsummarizer.pdf).
+You can review the project report [here](textsummarizerrap.pdf).
